@@ -11,5 +11,5 @@ GPU: 1.57s
 CPU: 28.86s
 
 Tensorflow: 
-GPU: 3.27s
-CPU: 40.65s
+GPU = 3.27s
+CPU = 40.65s
