@@ -6,7 +6,7 @@ import torch
 import time
 import tensorflow as tf
 # for cpu, uncomment lines 9, restart your kernel and run the code again
-os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
+# os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
 # check wether kernel detects your GPU
 if len(tf.config.experimental.list_physical_devices('GPU')) > 0:
