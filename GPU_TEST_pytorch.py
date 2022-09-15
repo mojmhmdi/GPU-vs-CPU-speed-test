@@ -3,7 +3,7 @@
 import torch
 import time
 import os
-# for cpu,uncomment line 8, comment line 18 and uncomment line 19
+# for cpu,uncomment line 8, comment line 17 and uncomment line 18
 
 # os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
